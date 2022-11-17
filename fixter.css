@@ -95,6 +95,18 @@ body {
     align-items: center
 }
 
+.logo {
+    position: absolute;
+    right: 2%;
+    width: min(150px, 25%);
+    top: 1%;
+}
+
+.banner-1 a:hover {
+    opacity: .8;
+    transition: .4s ease;
+}
+
 .banner-mobile {
     display: none;
 }
