@@ -111,6 +111,10 @@ body {
     display: none;
 }
 
+.banner-desktop {
+    width: 100vw;
+}
+
 .container-2 {
     width: min(90vw, 1100px);
     margin-top: 1em;
